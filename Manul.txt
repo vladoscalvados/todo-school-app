@@ -1,0 +1,4 @@
+Чтобы начать работу с json-server вам потребуется его установить через Менеджер пакетов Node (npm)
+npm install -g json-server
+Для завуска фейкового сервера необходимо написать команду json-server ./src/assets/db.json --watch --port 3001
+
